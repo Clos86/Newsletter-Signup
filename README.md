@@ -1,4 +1,4 @@
-# Newsletter
+# Newsletter-Signup
 
 This challenge was to create a simple signup page for a newsletter in which user names and emails would be collected using Mailchimp.
 
